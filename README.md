@@ -1,6 +1,7 @@
-# flutter_application_1
+# Flutter Chat
 
-A new Flutter project.
+A basic chat app in Flutter.
+Implements Google sign in Authentication using Firebase Auth and uses Cloud Firestore as the Backend.
 
 ## Getting Started
 
